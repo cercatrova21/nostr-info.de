@@ -245,6 +245,6 @@ Der größte Teil des obigen Textes ist kopiert aus
 [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) and
 [nostr.net](https://www.nostr.net/). 
 
-Diese Seite ist open source. [Verbessere diese Seite.](https://github.com/nostr-resources/nostr-resources.github.io)
+Diese Seite ist open source. [Verbessere diese Seite.](https://github.com/cercatrova21/nostr-info.de)
 
 ---
