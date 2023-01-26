@@ -14,7 +14,7 @@ redirect_from: resources
 
 ## WTF ist nostr?
 
-nostr ist neu und verwirrend, aber auch wirklich cool. Es ist **das einfachste offene Protokoll, das in der Lage ist, eine
+nostr ist neu und verwirrend, aber auch ziemlich cool. Es ist **das einfachste offene Protokoll, das in der Lage ist, eine
 zensurresistentes globales "soziales" Netzwerk** ein für alle Mal zu schaffen.
 
 - Es verlässt sich nicht auf einen vertrauenswürdigen zentralen Server und ist daher widerstandsfähig.
@@ -37,7 +37,7 @@ Das Design von nostr ist sehr einfach:
 
 Um nostr zu verwenden, benötigst du einen [key](#keys) und einen [client](#clients).
 
-- Jeder hat einen Client. Das kann ein nativer Client, ein Web-Client usw. sein. 
+- Jeder hat einen Client. Das kann ein nativer Client oder ein Web-Client usw. sein. 
 - Um etwas zu veröffentlichen, schreibst du einen Beitrag, signierst ihn mit deinem Schlüssel und sendest ihn an mehrere Relays (Server, die von jemand anderem oder von dir selber gehostet werden). 
 - Um Aktualisierungen von anderen Personen zu erhalten, fragst du mehrere Relays ab, ob sie etwas über diese anderen Personen wissen. 
 - Jeder kann ein Relay betreiben. Ein Relay ist sehr einfach und dumm. Er tut nichts anderes, als Beiträge von einigen Leuten anzunehmen und an andere weiterzuleiten.
@@ -103,8 +103,8 @@ Da gibt es auch noch die [Nostr Konsole](https://github.com/vishalxl/nostr_conso
 
 ## Relays
 
-Relays sind dumme Server, die man jederzeit zurücklassen kann (damit sie nicht
-böse werden). Du musst deinen Client mit einem Relay verbinden, damit er funktioniert. Es gibt
+Relays sind dumme Server, die man jederzeit weglassen kann (damit sie nicht
+böse werden). Du musst deinen Client mit mindestens einem Relay verbinden damit er funktioniert. Es gibt
 viele Relays und du kannst dein eigenen betreiben.
 
 - [nostr.watch](http://nostr.watch/)
@@ -153,7 +153,7 @@ auf Bildfreigabeseiten hochladen und die URL wie folgt posten:
 https://i.ibb.co/w4WvnYb/image.png
 ```
 
-Das funktioniert auch für Videos.
+Das funktioniert auch für Videos oder Gifs.
 
 Hier sind einige kostenlose Bilder-Hoster:
 
@@ -238,6 +238,7 @@ Du kannst jederzeit Fehler melden und PRs erstellen!
 - [Chinesisch](https://mp.weixin.qq.com/s/RoO-oOgGAXpcGyjD8IYBdw) von Cakksakkas
 - [Französisch](https://nostr.fr) von Marco.BTC.fr
 - [Spanisch](https://bitcoinnostr.com/recursos-de-nostr/) von [BitvonBit](https://nostr.guru/p/npub1luhyzgce7qtcs6r6v00ryjxza8av8u4dzh3avg0zks38tjktnmxspxq903)
+- [Englisch](https://nostr-resources.com/)
 
 ## Über diese Ressourcen
 
