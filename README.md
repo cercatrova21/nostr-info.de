@@ -1,3 +1,3 @@
 # Nostr Resources
 
-Deutsche Überstzung von [nostr-resources.com](https://nostr-resources.com)
+Deutsche Übersetzung [nostr-info.de](https://nostr-info.de) von [nostr-resources.com](https://nostr-resources.com)
