@@ -86,11 +86,10 @@ Hier sind einige, die ich mag:
 
 Mobile clients:
 - [Damus](https://testflight.apple.com/join/CLwjLxWl) - Twitter-style iOS client, funktioniert auch auf MacOS
-- [Amethyst](https://github.com/vitorpamplona/amethyst/releases/) - Twitter-style Android client
+- [Amethyst](https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst) - Twitter-style Android client
 - Unter Android kannst du auch den [Kiwi Browser](https://kiwibrowser.com/) verwenden, mit dem Alvon oder nos2x installiert werden können, was wiederum die Verwendung eines beliebigen Webclients ermöglicht. [Yosup](https://yosup.app/) und [Hamstr](https://hamstr.to/) haben zum Beispiel gute mobile Erfahrungen.
 
-Bis heute gibt es keine nativen Android-Clients im Play Store. Nosky[^nosky], Nostros[^nostros], und Amethyst[^amethyst]
-befinden sich in der Entwicklung und sollten bald zum Testen verfügbar sein.
+Amethyst ist nun im Play Store verfügbar. Nosky[^nosky] und Nostros[^nostros] befinden sich in der Entwicklung und sollten bald zum Testen verfügbar sein.
 
 [^nosky]: [KotlinGeekDev/Nosky](https://github.com/KotlinGeekDev/Nosky)
 [^nostros]: [KoalaSat/nostros](https://github.com/KoalaSat/nostros)
