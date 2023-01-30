@@ -200,6 +200,10 @@ Du kannst einen Suchbot unter [sb.nostr.band](https://sb.nostr.band) erstellen u
 - [Wie du einen GM bot programmierst](https://dergigi.com/2023/01/19/how-to-build-a-nostr-gm-bot/) von [Gigi](https://www.nostr.guru/p/npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc)
 - [nostr_bot](https://docs.rs/nostr-bot/latest/nostr_bot/)
 
+### RSS
+
+Du kannst auch einen RSS-Feed mit Beiträgen, die bestimmten Schlüsselwörtern entsprechen, unter [rss.nostr.band](https://rss.nostr.band) erstellen und deine bevorzugte RSS-Reader-Anwendung verwenden, um verschiedene Nostr-Unterhaltungen zu verfolgen.
+
 ## Podcasts
 
 - [Pleb's Taverne - TechTuesday](https://anchor.fm/plebs-taverne/episodes/TechTuesday---nostr-erklrt-e1t7q66) - einfache Erklärung wie nostr funktioniert
