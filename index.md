@@ -85,7 +85,7 @@ Hier sind einige, die ich mag:
 - [hamstr.to](https://hamstr.to/) - Twitter-Schnittstelle, Unterstützung für mehrere Konten
 
 Mobile clients:
-- [Damus](https://testflight.apple.com/join/CLwjLxWl) - Twitter-style iOS client, funktioniert auch auf MacOS
+- [Damus](https://apps.apple.com/ca/app/damus/id1628663131) - Twitter-style iOS client, funktioniert auch auf MacOS
 - [Amethyst](https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst) - Twitter-style Android client
 - Unter Android kannst du auch den [Kiwi Browser](https://kiwibrowser.com/) verwenden, mit dem Alvon oder nos2x installiert werden können, was wiederum die Verwendung eines beliebigen Webclients ermöglicht. [Yosup](https://yosup.app/) und [Hamstr](https://hamstr.to/) haben zum Beispiel gute mobile Erfahrungen.
 
