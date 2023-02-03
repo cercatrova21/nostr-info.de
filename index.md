@@ -60,12 +60,12 @@ zwischen den beiden Formaten zu konvertieren.
 
 [^fn-xss]: Du musst natürlich dem Betreiber der Website vertrauen und einige Clients sind anfällig für XSS-Angriffe. Viele Leute wurden bereits gerekt und mussten ihre nostr Identität deswegen neu aufbauen.
 
-Verwende [Alvon](https://getalvon.com) oder [nos2x](https://github.com/fiatjaf/nos2x), um
+Verwende [Alby](https://getalby.com) oder [nos2x](https://github.com/fiatjaf/nos2x), um
 deinen Schlüssel zu generieren, oder generiere ihn mit einem speziellen Tool wie
 [rana](https://github.com/grunch/rana). Die vorgenannten Erweiterungen speichern
 deine Schlüssel sicher (oder zumindest sicherer).
 
-- [Nostr in der Alvon-Erweiterung](https://blog.getalvon.com/nostr-in-the-alvon-extension/)
+- [Nostr in der Alby-Erweiterung](https://blog.getalby.com/nostr-in-the-alvon-extension/)
 - [Die nos2x-Browsererweiterung und warum du sie verwenden solltest](https://youtu.be/IoLw-3ok3_M)
 
 Du kannst deine Schlüssel auch auf andere Weise generieren, wenn du weisst, was du tust.[^bip85]
@@ -87,7 +87,7 @@ Hier sind einige, die ich mag:
 Mobile clients:
 - [Damus](https://apps.apple.com/ca/app/damus/id1628663131) - Twitter-style iOS client, funktioniert auch auf MacOS
 - [Amethyst](https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst) - Twitter-style Android client
-- Unter Android kannst du auch den [Kiwi Browser](https://kiwibrowser.com/) verwenden, mit dem Alvon oder nos2x installiert werden können, was wiederum die Verwendung eines beliebigen Webclients ermöglicht. [Yosup](https://yosup.app/) und [Hamstr](https://hamstr.to/) haben zum Beispiel gute mobile Erfahrungen.
+- Unter Android kannst du auch den [Kiwi Browser](https://kiwibrowser.com/) mit Alby oder nos2x verwenden, was wiederum die Verwendung eines beliebigen Webclients ermöglicht. [Yosup](https://yosup.app/) und [Hamstr](https://hamstr.to/) haben zum Beispiel gute mobile Erfahrungen.
 
 Amethyst ist nun im Play Store verfügbar. Nosky[^nosky] und Nostros[^nostros] befinden sich in der Entwicklung und sollten bald zum Testen verfügbar sein.
 
