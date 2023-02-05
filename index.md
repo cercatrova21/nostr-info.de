@@ -246,6 +246,7 @@ Du kannst jederzeit Fehler melden und PRs erstellen!
 - [Spanisch](https://bitcoinnostr.com/recursos-de-nostr/) von [BitvonBit](https://nostr.guru/p/npub1luhyzgce7qtcs6r6v00ryjxza8av8u4dzh3avg0zks38tjktnmxspxq903)
 - [Englisch](https://nostr-resources.com/)
 - [Italienisch](https://gist.github.com/theRescuer/717295270a35b4641081b6ef2cdf3025) von [avallanosterza](https://nostr.guru/p/npub1l0cwargp532n6x62pdcetkau783sxhpfhwu9d6qgpqm8r0mvt0eqqhlf2c)
+- [Portugiesisch (Brasilien)](https://gist.github.com/fernandoporazzi/d1c47b4f2a1d2c1a2e0654a2a31668ff) von [fernandoporazzi](https://www.nostr.guru/p/npub1wh30wunfpkezx5s7edqu9g0s0raeetf5dgthzm0zw7sk8wqygmjqqfljgh)
 
 ## Über diese Ressourcen
 
