@@ -65,7 +65,7 @@ deinen Schlüssel zu generieren, oder generiere ihn mit einem speziellen Tool wi
 [rana](https://github.com/grunch/rana). Die vorgenannten Erweiterungen speichern
 deine Schlüssel sicher (oder zumindest sicherer).
 
-- [Nostr in der Alby-Erweiterung](https://blog.getalby.com/nostr-in-the-alvon-extension/)
+- [Nostr in der Alby-Erweiterung](https://blog.getalby.com/nostr-in-the-alby-extension/)
 - [Die nos2x-Browsererweiterung und warum du sie verwenden solltest](https://youtu.be/IoLw-3ok3_M)
 
 Du kannst deine Schlüssel auch auf andere Weise generieren, wenn du weisst, was du tust.[^bip85]
