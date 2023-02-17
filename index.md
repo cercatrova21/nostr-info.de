@@ -161,7 +161,7 @@ Hier sind einige kostenlose Bilder-Hoster:
 - [imgur](https://imgur.com/)
 - [postimages.org](https://postimages.org/)
 
-Du kannst auch dein Twitter-Profilbild verwenden. [Folge dazu dieser Anleitung](https://medium.com/@_Bosch_/how-to-use-your-twitter-display-picture-on-nostr-fd43c6a26257).
+Du kannst auch dein Twitter-Anzeigebild verwenden. [Folge dazu dieser Anleitung](https://medium.com/@_Bosch_/how-to-use-your-twitter-display-picture-on-nostr-fd43c6a26257).
 
 ### Sich selbst verifizieren
 
